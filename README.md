@@ -1,6 +1,7 @@
 # sh-progressbar-fivem
 
 -- exports['sh-progressbar']:progressbar('TEXT', TIME)
+
 -- exports['sh-progressbar']:progressbar('TEXT', TIME, COLOR) -- COLOR OPTIONAL
 
 -- RegisterCommand('progress', function()
